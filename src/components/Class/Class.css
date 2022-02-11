@@ -1,0 +1,14 @@
+.class {
+    font-size: large;
+    font-family: 'Verdana';
+    width: 75vh;
+    height: 50px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    vertical-align: middle;
+    margin-left:75vh;
+    background-color: peachpuff;
+}
