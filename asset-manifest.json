@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/favorite-classes/static/css/main.b9b4eab3.chunk.css",
+    "main.js": "/favorite-classes/static/js/main.046912b3.chunk.js",
+    "main.js.map": "/favorite-classes/static/js/main.046912b3.chunk.js.map",
+    "runtime~main.js": "/favorite-classes/static/js/runtime~main.b72faa2a.js",
+    "runtime~main.js.map": "/favorite-classes/static/js/runtime~main.b72faa2a.js.map",
+    "static/js/2.624f555d.chunk.js": "/favorite-classes/static/js/2.624f555d.chunk.js",
+    "static/js/2.624f555d.chunk.js.map": "/favorite-classes/static/js/2.624f555d.chunk.js.map",
+    "static/js/3.0a738eea.chunk.js": "/favorite-classes/static/js/3.0a738eea.chunk.js",
+    "static/js/3.0a738eea.chunk.js.map": "/favorite-classes/static/js/3.0a738eea.chunk.js.map",
+    "index.html": "/favorite-classes/index.html",
+    "precache-manifest.f84ff5a40ee5ac5945b9d231fd67bacf.js": "/favorite-classes/precache-manifest.f84ff5a40ee5ac5945b9d231fd67bacf.js",
+    "service-worker.js": "/favorite-classes/service-worker.js",
+    "static/css/main.b9b4eab3.chunk.css.map": "/favorite-classes/static/css/main.b9b4eab3.chunk.css.map"
+  }
+}
