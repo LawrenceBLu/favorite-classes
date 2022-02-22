@@ -1,14 +1,39 @@
 .class {
-    font-size: large;
+    font-size: larger;
     font-family: 'Verdana';
     width: 75vh;
-    height: 50px;
-    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
     position: relative;
     align-items: center;
     justify-content: center;
-    text-align: center;
     vertical-align: middle;
     margin-left:75vh;
+    margin-bottom: 15px;
     background-color: peachpuff;
+}
+.information {
+    font-size: medium;
+    font-family: 'Verdana';
+    text-align: left;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+#title {
+    font-size: medium;
+    font-weight: 700;
+}
+
+#error {
+    font-size: medium;
+    font-weight: 700;
+    position: relative;
+    bottom: 5px;
+}
+
+#description {
+    font-size: small;
+    position: relative;
+    bottom: 5px;
 }
